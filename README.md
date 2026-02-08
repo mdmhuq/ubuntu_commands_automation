@@ -22,3 +22,10 @@ A Python CLI tool for managing Ubuntu packages using Typer.
    ```sh
    git clone <your-repo-url>
    cd <your-repo-directory>
+
+
+## 📄 License
+
+MIT License
+---
+
